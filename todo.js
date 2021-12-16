@@ -19,3 +19,7 @@
 /*
  * TODO: Get rid of this multiline comment.
  */
+
+const test = "Testing the code";
+
+console.log(test);
